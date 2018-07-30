@@ -9,3 +9,8 @@ C Programming Definitions and Data Types Legend or Vocabulary
 * double - a double-precision floating point value.
 * char - a single character.
 * void - valueless special purpose type which we will examine closely in later sections.
+
+## Character to String
+
+* char variable_name[] = "";
+* strcpy(variable_name,"Hello World");
